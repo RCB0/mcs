@@ -11,3 +11,4 @@ exec('bash start.sh', (error, stdout, stderr) => {
   }
   console.log(`stdout: ${stdout}`);
 });
+//node update
