@@ -1,0 +1,41 @@
+2024-08-02 [12:26:42.954] [Server thread/INFO]: Loading server configuration
+2024-08-02 [12:26:42.958] [Server thread/INFO]: Selected English (eng) as the base language
+2024-08-02 [12:26:42.959] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.2
+2024-08-02 [12:26:42.960] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-08-02 [12:26:42.968] [Server thread/INFO]: This server is running PocketMine-MP version 5.17.0
+2024-08-02 [12:26:42.968] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-08-02 [12:26:43.295] [Server thread/INFO]: Loading resource packs...
+2024-08-02 [12:26:43.502] [Server thread/INFO]: Preparing world "world"
+2024-08-02 [12:26:43.522] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2024-08-02 [12:26:43.775] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:7070
+2024-08-02 [12:26:43.782] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-08-02 [12:26:43.782] [Server thread/INFO]: Default game type: Survival Mode
+2024-08-02 [12:26:43.782] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-08-02 [12:26:43.782] [Server thread/INFO]: Done (0.83s)! For help, type "help" or "?"
+2024-08-02 [12:26:44.069] [Server thread/INFO]: [World: world] Generating spawn terrain: 1 / 224 (0%)
+2024-08-02 [12:26:48.910] [Server thread/INFO]: [World: world] Generating spawn terrain: 23 / 224 (10%)
+2024-08-02 [12:26:49.827] [Server thread/INFO]: [World: world] Generating spawn terrain: 45 / 224 (20%)
+2024-08-02 [12:26:50.805] [Server thread/INFO]: [World: world] Generating spawn terrain: 68 / 224 (30%)
+2024-08-02 [12:26:51.222] [Server thread/INFO]: [World: world] Generating spawn terrain: 90 / 224 (40%)
+2024-08-02 [12:26:51.435] [Server thread/INFO]: [World: world] Generating spawn terrain: 112 / 224 (50%)
+2024-08-02 [12:26:51.578] [Server thread/INFO]: [World: world] Generating spawn terrain: 135 / 224 (60%)
+2024-08-02 [12:26:51.746] [Server thread/INFO]: [World: world] Generating spawn terrain: 157 / 224 (70%)
+2024-08-02 [12:26:51.884] [Server thread/INFO]: [World: world] Generating spawn terrain: 180 / 224 (80%)
+2024-08-02 [12:26:52.015] [Server thread/INFO]: [World: world] Generating spawn terrain: 202 / 224 (90%)
+2024-08-02 [12:26:52.152] [Server thread/INFO]: [World: world] Generating spawn terrain: 224 / 224 (100%)
+2024-08-02 [12:35:53.097] [Server thread/INFO]: Received signal interrupt, stopping the server
+2024-08-02 [12:35:53.098] [Server thread/INFO]: Unloading world "world"
+2024-08-02 [12:35:53.229] [Server thread/INFO]: Stopping other threads
+2024-08-02 [12:36:28.876] [Server thread/INFO]: Loading server configuration
+2024-08-02 [12:36:28.882] [Server thread/INFO]: Selected English (eng) as the base language
+2024-08-02 [12:36:28.883] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.2
+2024-08-02 [12:36:28.884] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-08-02 [12:36:28.890] [Server thread/INFO]: This server is running PocketMine-MP version 5.17.0
+2024-08-02 [12:36:28.890] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-08-02 [12:36:29.174] [Server thread/INFO]: Loading resource packs...
+2024-08-02 [12:36:29.457] [Server thread/INFO]: Preparing world "world"
+2024-08-02 [12:36:29.707] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:7070
+2024-08-02 [12:36:29.715] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-08-02 [12:36:29.715] [Server thread/INFO]: Default game type: Survival Mode
+2024-08-02 [12:36:29.715] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-08-02 [12:36:29.715] [Server thread/INFO]: Done (0.84s)! For help, type "help" or "?"
