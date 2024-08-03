@@ -1,0 +1,66 @@
+2024-08-03 [03:28:02.794] [Server thread/INFO]: Loading server configuration
+2024-08-03 [03:28:02.798] [Server thread/INFO]: Selected English (eng) as the base language
+2024-08-03 [03:28:02.799] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.2
+2024-08-03 [03:28:02.801] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-08-03 [03:28:02.809] [Server thread/INFO]: This server is running PocketMine-MP version 5.17.0
+2024-08-03 [03:28:02.809] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-08-03 [03:28:03.105] [Server thread/INFO]: Loading resource packs...
+2024-08-03 [03:28:03.296] [Server thread/INFO]: Preparing world "world"
+2024-08-03 [03:28:03.316] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2024-08-03 [03:28:03.554] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-08-03 [03:28:03.554] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-08-03 [03:28:03.562] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-08-03 [03:28:03.562] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-08-03 [03:28:03.562] [Server thread/INFO]: Default game type: Survival Mode
+2024-08-03 [03:28:03.563] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-08-03 [03:28:03.563] [Server thread/INFO]: Done (0.77s)! For help, type "help" or "?"
+2024-08-03 [03:28:03.858] [Server thread/INFO]: [World: world] Generating spawn terrain: 1 / 224 (0%)
+2024-08-03 [03:28:08.835] [Server thread/INFO]: [World: world] Generating spawn terrain: 23 / 224 (10%)
+2024-08-03 [03:28:09.621] [Server thread/INFO]: [World: world] Generating spawn terrain: 45 / 224 (20%)
+2024-08-03 [03:28:10.521] [Server thread/INFO]: [World: world] Generating spawn terrain: 68 / 224 (30%)
+2024-08-03 [03:28:10.903] [Server thread/INFO]: [World: world] Generating spawn terrain: 90 / 224 (40%)
+2024-08-03 [03:28:11.249] [Server thread/INFO]: [World: world] Generating spawn terrain: 112 / 224 (50%)
+2024-08-03 [03:28:11.468] [Server thread/INFO]: [World: world] Generating spawn terrain: 135 / 224 (60%)
+2024-08-03 [03:28:11.661] [Server thread/INFO]: [World: world] Generating spawn terrain: 157 / 224 (70%)
+2024-08-03 [03:28:11.920] [Server thread/INFO]: [World: world] Generating spawn terrain: 180 / 224 (80%)
+2024-08-03 [03:28:12.053] [Server thread/INFO]: [World: world] Generating spawn terrain: 202 / 224 (90%)
+2024-08-03 [03:28:12.198] [Server thread/INFO]: [World: world] Generating spawn terrain: 224 / 224 (100%)
+2024-08-03 [03:29:37.229] [Server thread/INFO]: Received signal interrupt, stopping the server
+2024-08-03 [03:29:37.230] [Server thread/INFO]: Unloading world "world"
+2024-08-03 [03:29:37.265] [Server thread/INFO]: Stopping other threads
+2024-08-03 [03:33:50.832] [Server thread/INFO]: Loading server configuration
+2024-08-03 [03:33:50.839] [Server thread/INFO]: Selected English (eng) as the base language
+2024-08-03 [03:33:50.840] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.2
+2024-08-03 [03:33:50.841] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-08-03 [03:33:50.846] [Server thread/INFO]: This server is running PocketMine-MP version 5.17.0
+2024-08-03 [03:33:50.846] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-08-03 [03:33:51.138] [Server thread/INFO]: Loading resource packs...
+2024-08-03 [03:33:51.314] [Server thread/INFO]: Preparing world "world"
+2024-08-03 [03:33:51.583] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-08-03 [03:33:51.583] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-08-03 [03:33:51.590] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-08-03 [03:33:51.590] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-08-03 [03:33:51.591] [Server thread/INFO]: Default game type: Survival Mode
+2024-08-03 [03:33:51.591] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-08-03 [03:33:51.591] [Server thread/INFO]: Done (0.76s)! For help, type "help" or "?"
+2024-08-03 [03:33:54.108] [Server thread/INFO]: Received signal interrupt, stopping the server
+2024-08-03 [03:33:54.109] [Server thread/INFO]: Unloading world "world"
+2024-08-03 [03:33:54.122] [Server thread/INFO]: Stopping other threads
+2024-08-03 [03:38:16.563] [Server thread/INFO]: Loading server configuration
+2024-08-03 [03:38:16.575] [Server thread/INFO]: Selected English (eng) as the base language
+2024-08-03 [03:38:16.576] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.2
+2024-08-03 [03:38:16.578] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-08-03 [03:38:16.586] [Server thread/INFO]: This server is running PocketMine-MP version 5.17.0
+2024-08-03 [03:38:16.586] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-08-03 [03:38:16.946] [Server thread/INFO]: Loading resource packs...
+2024-08-03 [03:38:17.124] [Server thread/INFO]: Preparing world "world"
+2024-08-03 [03:38:17.420] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-08-03 [03:38:17.420] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-08-03 [03:38:17.428] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-08-03 [03:38:17.428] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-08-03 [03:38:17.428] [Server thread/INFO]: Default game type: Survival Mode
+2024-08-03 [03:38:17.428] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-08-03 [03:38:17.429] [Server thread/INFO]: Done (0.866s)! For help, type "help" or "?"
+2024-08-03 [03:39:36.344] [Server thread/INFO]: Received signal interrupt, stopping the server
+2024-08-03 [03:39:36.345] [Server thread/INFO]: Unloading world "world"
+2024-08-03 [03:39:36.364] [Server thread/INFO]: Stopping other threads

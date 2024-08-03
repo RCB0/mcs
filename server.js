@@ -12,9 +12,9 @@ app.get('/', (req, res) => {
   res.send(`MCPE Server: ${mcpeConfig.serverName}<br>IP: ${mcpeConfig.ip}<br>Port: ${mcpeConfig.port}`);
 });
 
-// Example endpoint to start the MCPE server
+// Endpoint to start the MCPE server
 app.post('/start-server', (req, res) => {
-  exec('php PocketMine-MP.phar', (error, stdout, stderr) => {
+  exec('./start.sh', { cwd: __dirname }, (error, stdout, stderr) => {
     if (error) {
       console.error(`Error starting server: ${error}`);
       res.status(500).send('Failed to start MCPE server.');
@@ -25,7 +25,7 @@ app.post('/start-server', (req, res) => {
   });
 });
 
-// Example endpoint to stop the MCPE server
+// Endpoint to stop the MCPE server
 app.post('/stop-server', (req, res) => {
   exec('pkill -f PocketMine-MP.phar', (error, stdout, stderr) => {
     if (error) {
@@ -38,7 +38,7 @@ app.post('/stop-server', (req, res) => {
   });
 });
 
-// Example endpoint to get server status
+// Endpoint to get server status
 app.get('/status', (req, res) => {
   // Implement status check logic if needed
   res.send('MCPE server is running.');
