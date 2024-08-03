@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> <center>centered</center>
 	<a href="https://pmmp.io">
 		<!--[if IE]>
 			<img src="https://github.com/pmmp/PocketMine-MP/blob/stable/.github/readme/pocketmine.png" alt="The PocketMine-MP logo" title="PocketMine" loading="eager" />
