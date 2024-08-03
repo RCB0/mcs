@@ -1,0 +1,30 @@
+2024-08-03 [06:44:14.139] [Server thread/INFO]: Loading server configuration
+2024-08-03 [06:44:14.144] [Server thread/INFO]: Selected English (eng) as the base language
+2024-08-03 [06:44:14.145] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.2
+2024-08-03 [06:44:14.146] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-08-03 [06:44:14.151] [Server thread/INFO]: This server is running PocketMine-MP version 5.17.0
+2024-08-03 [06:44:14.151] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-08-03 [06:44:14.449] [Server thread/INFO]: Loading resource packs...
+2024-08-03 [06:44:14.644] [Server thread/INFO]: Preparing world "world"
+2024-08-03 [06:44:14.666] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2024-08-03 [06:44:14.915] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-08-03 [06:44:14.915] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-08-03 [06:44:14.923] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-08-03 [06:44:14.923] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-08-03 [06:44:14.924] [Server thread/INFO]: Default game type: Survival Mode
+2024-08-03 [06:44:14.924] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-08-03 [06:44:14.924] [Server thread/INFO]: Done (0.785s)! For help, type "help" or "?"
+2024-08-03 [06:44:15.205] [Server thread/INFO]: [World: world] Generating spawn terrain: 1 / 224 (0%)
+2024-08-03 [06:44:20.291] [Server thread/INFO]: [World: world] Generating spawn terrain: 23 / 224 (10%)
+2024-08-03 [06:44:21.099] [Server thread/INFO]: [World: world] Generating spawn terrain: 45 / 224 (20%)
+2024-08-03 [06:44:22.090] [Server thread/INFO]: [World: world] Generating spawn terrain: 68 / 224 (30%)
+2024-08-03 [06:44:22.362] [Server thread/INFO]: [World: world] Generating spawn terrain: 90 / 224 (40%)
+2024-08-03 [06:44:22.612] [Server thread/INFO]: [World: world] Generating spawn terrain: 112 / 224 (50%)
+2024-08-03 [06:44:22.969] [Server thread/INFO]: [World: world] Generating spawn terrain: 135 / 224 (60%)
+2024-08-03 [06:44:23.124] [Server thread/INFO]: [World: world] Generating spawn terrain: 157 / 224 (70%)
+2024-08-03 [06:44:23.306] [Server thread/INFO]: [World: world] Generating spawn terrain: 180 / 224 (80%)
+2024-08-03 [06:44:23.431] [Server thread/INFO]: [World: world] Generating spawn terrain: 202 / 224 (90%)
+2024-08-03 [06:44:23.577] [Server thread/INFO]: [World: world] Generating spawn terrain: 224 / 224 (100%)
+2024-08-03 [06:44:52.789] [Server thread/INFO]: Received signal interrupt, stopping the server
+2024-08-03 [06:44:52.790] [Server thread/INFO]: Unloading world "world"
+2024-08-03 [06:44:53.217] [Server thread/INFO]: Stopping other threads
