@@ -18,3 +18,4 @@ EXPOSE 19132
 
 # Run PocketMine-MP when the container launches
 CMD ["./start.sh"]
+#updated
