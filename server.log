@@ -60,3 +60,20 @@
 2024-08-03 [06:54:07.963] [Server thread/INFO]: Default game type: Survival Mode
 2024-08-03 [06:54:07.963] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
 2024-08-03 [06:54:07.963] [Server thread/INFO]: Done (0.732s)! For help, type "help" or "?"
+2024-08-03 [06:57:24.829] [Server thread/INFO]: Unloading world "world"
+2024-08-03 [06:57:24.846] [Server thread/INFO]: Stopping other threads
+2024-08-03 [06:57:27.801] [Server thread/INFO]: Loading server configuration
+2024-08-03 [06:57:27.808] [Server thread/INFO]: Selected English (eng) as the base language
+2024-08-03 [06:57:27.809] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.2
+2024-08-03 [06:57:27.810] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-08-03 [06:57:27.815] [Server thread/INFO]: This server is running PocketMine-MP version 5.17.0
+2024-08-03 [06:57:27.815] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-08-03 [06:57:28.165] [Server thread/INFO]: Loading resource packs...
+2024-08-03 [06:57:28.330] [Server thread/INFO]: Preparing world "world"
+2024-08-03 [06:57:28.601] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-08-03 [06:57:28.601] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-08-03 [06:57:28.609] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-08-03 [06:57:28.609] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-08-03 [06:57:28.610] [Server thread/INFO]: Default game type: Survival Mode
+2024-08-03 [06:57:28.610] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-08-03 [06:57:28.610] [Server thread/INFO]: Done (0.81s)! For help, type "help" or "?"

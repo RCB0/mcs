@@ -12,9 +12,9 @@ const port = 3000;
 const startScriptPath = path.resolve(__dirname, 'start.sh');
 
 let serverInfo = {
-  ip: 'N/A',
-  port: 'N/A',
-  name: 'N/A',
+  ip: '52.187.56.190',
+  port: 'IPv4:19132 , IPv6:70707',
+  name: 'rcb0',
 };
 
 function startServer() {
