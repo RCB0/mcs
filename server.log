@@ -25,3 +25,18 @@
 2024-08-02 [13:32:54.484] [Server thread/INFO]: [World: world] Generating spawn terrain: 180 / 224 (80%)
 2024-08-02 [13:32:54.599] [Server thread/INFO]: [World: world] Generating spawn terrain: 202 / 224 (90%)
 2024-08-02 [13:32:54.710] [Server thread/INFO]: [World: world] Generating spawn terrain: 224 / 224 (100%)
+2024-08-03 [00:08:51.668] [Server thread/INFO]: Loading server configuration
+2024-08-03 [00:08:51.678] [Server thread/INFO]: Selected English (eng) as the base language
+2024-08-03 [00:08:51.679] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.2
+2024-08-03 [00:08:51.682] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-08-03 [00:08:51.694] [Server thread/INFO]: This server is running PocketMine-MP version 5.17.0
+2024-08-03 [00:08:51.694] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-08-03 [00:08:51.989] [Server thread/INFO]: Loading resource packs...
+2024-08-03 [00:08:52.176] [Server thread/INFO]: Preparing world "world"
+2024-08-03 [00:08:52.421] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-08-03 [00:08:52.421] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-08-03 [00:08:52.429] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-08-03 [00:08:52.429] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-08-03 [00:08:52.429] [Server thread/INFO]: Default game type: Survival Mode
+2024-08-03 [00:08:52.429] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-08-03 [00:08:52.429] [Server thread/INFO]: Done (0.762s)! For help, type "help" or "?"
