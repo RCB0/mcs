@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PocketMine Console</title>
+  <style>
+    body { font-family: Arial, sans-serif; }
+    #console { white-space: pre-wrap; background: #f0f0f0; padding: 10px; border: 1px solid #ccc; }
+  </style>
+</head>
+<body>
+  <h1>PocketMine Console Output</h1>
+  <div id="console">Loading...</div>
+
+  <!-- Include Socket.IO client library -->
+  <script src="/socket.io/socket.io.js"></script>
+  <script>
+    const socket = io();
+
+    socket.on('connect', () => {
+      console.log('Connected to Socket.IO server');
+    });
+
+    socket.on('consoleOutput', (data) => {
+      const consoleDiv = document.getElementById('console');
+      consoleDiv.textContent += data; // Append new console output
+      consoleDiv.scrollTop = consoleDiv.scrollHeight; // Scroll to bottom
+    });
+
+    socket.on('disconnect', () => {
+      console.log('Disconnected from Socket.IO server');
+    });
+  </script>
+</body>
+</html>

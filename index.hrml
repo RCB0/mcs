@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PocketMine Console</title>
+  <style>
+    #console {
+      background-color: #000;
+      color: #0f0;
+      padding: 10px;
+      height: 80vh;
+      overflow-y: scroll;
+      font-family: monospace;
+    }
+  </style>
+</head>
+<body>
+  <h1>PocketMine Console Output</h1>
+  <div id="console"></div>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script>
+    const socket = io();
+
+    socket.on('consoleOutput', (data) => {
+      const consoleDiv = document.getElementById('console');
+      const message = document.createElement('div');
+      message.textContent = data;
+      consoleDiv.appendChild(message);
+      consoleDiv.scrollTop = consoleDiv.scrollHeight;
+    });
+  </script>
+</body>
+</html>

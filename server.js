@@ -1,4 +1,4 @@
-const { spawn } = require('child_process');
+const { exec } = require('child_process');
 const express = require('express');
 const http = require('http');
 const socketIO = require('socket.io');
@@ -9,8 +9,7 @@ const server = http.createServer(app);
 const io = socketIO(server);
 
 const port = 3000;
-
-const pocketminePath = path.join(__dirname, 'PocketMine-MP');
+const startScriptPath = '/home/codespace/mcs/start.sh';
 
 let serverInfo = {
   ip: null,
@@ -21,7 +20,7 @@ let serverInfo = {
 // Function to start the PocketMine server
 function startServer() {
   console.log('Starting PocketMine server...');
-  const process = spawn('./start.sh', { cwd: pocketminePath, shell: true });
+  const process = exec(startScriptPath);
 
   process.stdout.on('data', (data) => {
     console.log(`Server stdout: ${data}`);
@@ -39,4 +38,30 @@ function startServer() {
 
   process.stderr.on('data', (data) => {
     console.error(`Server stderr: ${data}`);
-    io.emit('
+    io.emit('consoleOutput', data.toString());
+  });
+
+  process.on('close', (code) => {
+    console.log(`Server process exited with code ${code}`);
+    io.emit('consoleOutput', `Server process exited with code ${code}`);
+  });
+}
+
+// Start the server
+startServer();
+
+// Serve the server info via Express.js
+app.get('/', (req, res) => {
+  res.sendFile(path.join(__dirname, 'index.html'));
+});
+
+app.get('/info', (req, res) => {
+  res.json(serverInfo);
+});
+
+server.listen(port, () => {
+  console.log(`Server info available at http://localhost:${port}`);
+});
+
+// Serve static files
+app.use(express.static(path.join(__dirname, 'public')));
